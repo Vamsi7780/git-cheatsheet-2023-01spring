@@ -11,3 +11,7 @@ stage all changes present in the working tree.
 
 'git commit -m "Log message goes here"'
 save all staged changes to the local repository as a new commit.
+
+'gloga'
+'git log --oneline --decorate --graph --all'
+A version of the 'git log' command which displays the version history as a graph.q
