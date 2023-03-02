@@ -12,6 +12,9 @@ stage all changes present in the working tree.
 'git commit -m "Log message goes here"'
 save all staged changes to the local repository as a new commit.
 
+'git log'
+Basic command for inspecting the version history. Hit the Q key to quit.
+
 'gloga'
 'git log --oneline --decorate --graph --all'
-A version of the 'git log' command which displays the version history as a graph.q
+A version of the 'git log' command which displays the version history as a graph. Hit the Q key to quit.
